@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Huda
+#### I am a web developer and desginer
+![I am a web developer and desginer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**hudaelashram/hudaelashram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Use colors in a consistent and attractive manner that serves the design and achieves the desired goals.
+I am distinguished by my many skills, including:
+UI/UX Designer
+- HTML
+- CSS
+- Bootstrap
+- jQuery
+- JavaScript
+- Design professional presentations
+- Wordpress
+I accept any modifications and deal with unlimited flexibility in this field.
 
-Here are some ideas to get you started:
+Skills: VUE JS / Bootstrap / JS / HTML / CSS / jQuery / Wordpress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
